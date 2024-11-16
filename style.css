@@ -1,0 +1,46 @@
+
+.card {
+    position: absolute;
+    background-color:white ;
+    height: 500px;
+    width: 400px;
+    border-radius: 10px;
+    border-style: ridge;
+    border-color: black;
+}
+
+.card img {
+    height: 200px;
+    width: 390px;
+    margin-top: 5px;
+    margin-left:5px;
+    border-radius: 10px;
+}
+
+.know button {
+    background-color: rgba(156, 207, 240, 0.908);
+    margin-left: 150px;
+    border: 1px solid black;
+    color: blue;
+    
+}
+
+.capsule span {
+    background-color: rgb(203, 251, 235);
+    border: 1px solid grey;
+    border-radius: 4px;
+    margin-left: 22px;
+    color: blue;
+}
+
+.word {
+
+    font-size: 17px;
+    padding-left: 20px;
+}
+
+.titl h2 {
+    color: red;
+    padding-left: 150px;
+    font-size: 40px;
+}
